@@ -1,6 +1,9 @@
 # iot-device-node
 The minimal code for an IoT device to connect to an Azure IoTHub in node
 
+To get an idea of how this code might be used in an IoT device check out the [RaspberryPi Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/)
+
+
 ## Setup
 
 run the following command from a terminal window in the project folder
