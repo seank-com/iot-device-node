@@ -1,0 +1,25 @@
+{
+  "name": "iot-device-node",
+  "version": "1.0.0",
+  "description": "a simple iot-device",
+  "main": "device.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seank-com/iot-device-node.git"
+  },
+  "author": "SeanK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seank-com/iot-device-node/issues"
+  },
+  "homepage": "https://github.com/seank-com/iot-device-node#readme",
+  "dependencies": {
+    "azure-iot-device": "^1.7.1",
+    "azure-iot-device-mqtt": "^1.7.1",
+    "dotenv": "^6.0.0",
+    "uuid": "^3.3.2"
+  }
+}
